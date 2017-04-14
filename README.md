@@ -21,7 +21,7 @@ Useful resources for becoming better at coding, creating and growing in the tech
 
 ## Agile & Scrum
 
-1. [The Agile Samurai (book by Jonathan Rasmusson)](https://www.amazon.com/The-Agile-Samurai-Pragmatic-Programmers/dp/1934356581)
+1. [The Agile Samurai (book by Jonathan Rasmusson)] (https://www.amazon.com/The-Agile-Samurai-Pragmatic-Programmers/dp/1934356581)
 
 
 ## Business / Lean
