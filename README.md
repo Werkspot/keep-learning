@@ -5,8 +5,7 @@ Useful resources for becoming better at coding, creating and growing in the tech
 ## Code
 
 1. [Clean Code (book by Robert C. Martin)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)
-2. [Introduction to Algorithms, Third Edition (book by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein
-)](https://mitpress.mit.edu/books/introduction-algorithms)
+2. [Introduction to Algorithms, Third Edition (book by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein)](https://mitpress.mit.edu/books/introduction-algorithms)
 
 ## Architecture
 
