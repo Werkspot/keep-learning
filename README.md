@@ -13,7 +13,7 @@ Useful resources for becoming better at coding, creating and growing in the tech
 
 ## Security
 
-1. [OWASP top 10 2017 (RC)] (https://github.com/OWASP/Top10/raw/master/2017/OWASP%20Top%2010%20-%202017%20RC1-English.pdf)
+1. [OWASP top 10 2017 (RC)](https://github.com/OWASP/Top10/raw/master/2017/OWASP%20Top%2010%20-%202017%20RC1-English.pdf)
 
 ## Data
 
