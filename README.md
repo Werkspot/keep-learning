@@ -6,10 +6,14 @@ Useful resources for becoming better at coding, creating and growing in the tech
 
 1. [Clean Code (book by Robert C. Martin)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)
 2. [Introduction to Algorithms, Third Edition (book by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein)](https://mitpress.mit.edu/books/introduction-algorithms)
+3. [Patterns of Enterprise Application Architecture (by Martin Fowler)](https://www.amazon.com/dp/0321127420/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=CG11VVP0H8Y8&coliid=I1QPWUPW6G7YF5)
+4. [Head First Design Patterns (by Eric Freeman, Bert Bates, Kathy Sierra)](https://www.amazon.com/dp/0596007124/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=CG11VVP0H8Y8&coliid=I2QU8RUBUOR563)
 
 ## Architecture
 
-1. [Lean Architecture (book by James O. Coplien)](https://www.amazon.co.uk/Lean-Architecture-Agile-Software-Development/dp/0470684208/)
+
+1. [Domain-Driven Design: Tackling Complexity in the Heart of Software (by Eric Evans)](https://www.amazon.com/dp/0321125215/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=CG11VVP0H8Y8&coliid=I1X0NXLUHTFGE4)
+2. [Lean Architecture (book by James O. Coplien)](https://www.amazon.co.uk/Lean-Architecture-Agile-Software-Development/dp/0470684208/)
 
 ## Security
 
@@ -22,6 +26,7 @@ Useful resources for becoming better at coding, creating and growing in the tech
 ## Agile & Scrum
 
 1. [The Agile Samurai (book by Jonathan Rasmusson)] (https://www.amazon.com/The-Agile-Samurai-Pragmatic-Programmers/dp/1934356581)
+2. [Agile Software Development, Principles, Patterns, and Practices (by Robert C. Martin)](https://www.amazon.com/dp/0135974445/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=CG11VVP0H8Y8&coliid=I1P9T8D1QRUFMM)
 
 
 ## Business / Lean
