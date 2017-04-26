@@ -32,3 +32,9 @@ Useful resources for becoming better at coding, creating and growing in the tech
 ## Business / Lean
 
 1. [Lean Enterprise (book by Jez Humble, Joanne Molesky & Barry O'Reilly)](https://www.amazon.co.uk/dp/1449368425/)
+
+
+## Redux
+
+1. [Getting started with Redux](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree)
+2. [Lots of Redux (and React) links to great resources](https://github.com/markerikson/react-redux-links)
