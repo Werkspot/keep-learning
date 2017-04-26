@@ -33,6 +33,8 @@ Useful resources for becoming better at coding, creating and growing in the tech
 
 1. [Lean Enterprise (book by Jez Humble, Joanne Molesky & Barry O'Reilly)](https://www.amazon.co.uk/dp/1449368425/)
 
+## React
+1. [Egghead.io courses about React/React Native](https://egghead.io/technologies/react)
 
 ## Redux
 
