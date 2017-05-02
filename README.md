@@ -32,6 +32,8 @@ Useful resources for becoming better at coding, creating and growing in the tech
 ## Business / Lean
 
 1. [Lean Enterprise (book by Jez Humble, Joanne Molesky & Barry O'Reilly)](https://www.amazon.co.uk/dp/1449368425/)
+2. [The 7 Wastes of Lean (article at Lean Manufacturing Tools)](http://leanmanufacturingtools.org/77/the-seven-wastes-7-mudas/)
+3. [5 Lean Principles Every Engineer Should Know (article by Mark Crawford of ASME.org)](https://www.asme.org/engineering-topics/articles/manufacturing-design/5-lean-principles-every-should-know)
 
 ## React
 1. [Egghead.io courses about React/React Native](https://egghead.io/technologies/react)
